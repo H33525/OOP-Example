@@ -1,0 +1,8 @@
+print(type(None))
+print(type(True))
+print(type(5))
+print(type(5,5))
+print(type('hi))
+print(type(3))
+print(type(()))
+print(type({}))
